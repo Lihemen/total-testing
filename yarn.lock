@@ -533,7 +533,7 @@
 
 "@playwright/test@^1.40.1":
   version "1.40.1"
-  resolved "https://registry.npmjs.org/@playwright/test/-/test-1.40.1.tgz"
+  resolved "https://registry.yarnpkg.com/@playwright/test/-/test-1.40.1.tgz#9e66322d97b1d74b9f8718bacab15080f24cde65"
   integrity sha512-EaaawMTOeEItCRvfmkI9v6rBkF1svM8wjl/YPRrg2N2Wmp+4qJYkWtJsbew1szfKKDm6fPLy4YAanBhIlf9dWw==
   dependencies:
     playwright "1.40.1"
